@@ -1,6 +1,6 @@
-body{
+html{
   text-align:center;
-  background:<img src="images/jessieandgrantengagementphoto1.jpeg">;
+  background:url(images/jessieandgrantengagementphoto1.jpeg);
   background-size:cover;
   color: #fff;
   font-family: Helvetica;
