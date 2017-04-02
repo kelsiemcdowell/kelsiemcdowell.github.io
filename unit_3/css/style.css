@@ -1,16 +1,16 @@
-html{
-  text-align:center;
-  background: url(images/jessieandgrantengagementphoto1.jpg);
-  background-size:cover;
+.html {
+  text-align: center;
   color: #fff;
   font-family: Helvetica;
+  background: <img src="images/jandgbeachsit.jpg">;
+  background-size: cover;
+    width: 200px;
+}
+
+#h1{
+	<hr>
 }
 
 hr{
   width: 200px;
-}
-
-p{
-	color: #2F4F4F;
-	font-size:22px;
 }
