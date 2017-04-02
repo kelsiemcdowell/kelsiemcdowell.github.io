@@ -1,7 +1,7 @@
 body{
-  text-align:center;
-  background:url("http://www.californiabeaches.com/beach/blacks-beach-san-diego");
-  background-size:cover;
+  text-align: center;
+  background: url("http://www.californiabeaches.com/beach/blacks-beach-san-diego");
+  background-size: cover;
   color: #fff;
   font-family: Helvetica;
 }
@@ -9,7 +9,7 @@ hr{
   width: 200px;
 }
 p{
-  font-size:22px;
+  font-size: 22px;
 }
 
 
