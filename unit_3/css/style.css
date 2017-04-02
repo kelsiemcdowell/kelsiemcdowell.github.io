@@ -1,4 +1,4 @@
-.html {
+.body{
   text-align: center;
   color: #fff;
   font-family: Helvetica;
@@ -7,10 +7,9 @@
     width: 200px;
 }
 
-#h1{
-	<hr>
-}
-
 hr{
   width: 200px;
+}
+p{
+  font-size:22px;
 }
