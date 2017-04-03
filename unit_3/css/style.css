@@ -1,6 +1,6 @@
 body{
   text-align: center;
-  background: url("https://kelsiemcdowell.github.io/unit_3/images/jandgbeachsit.jpg");
+  background: url("https://kelsiemcdowell.github.io/unit_3/images/jessieandgrantengagementphoto1.jpg");
   background-size: cover;
   color: #a3abb7;
   font-family: Helvetica;
@@ -8,10 +8,11 @@ body{
 hr{
   width: 200px;
 }
-
+section {}
 #nav{
 	text-align: right;
 	color: #a3abb7;
+	float: right;
 }
 p{
   font-size: 22px;
