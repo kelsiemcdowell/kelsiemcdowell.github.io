@@ -1,3 +1,13 @@
+
+h1{
+    padding-top: 140px;
+    font-size: 48px;
+    font-weight: 100;
+    font-family: 'Amatica SC', cursive;
+    letter-spacing: .25em;
+    line-height: .4em;
+}
+
 nav{
 	text-align: right;
     margin-right: 40px;
