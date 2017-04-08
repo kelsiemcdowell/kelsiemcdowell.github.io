@@ -3,7 +3,16 @@ h1{
     padding-top: 140px;
     font-size: 48px;
     font-weight: 100;
-    font-family: 'Amatica SC', cursive;
+	font-family: 'Amatica SC', cursive;
+    letter-spacing: .25em;
+    line-height: .4em;
+}
+
+h2{
+    padding-top: 140px;
+    font-size: 48px;
+    font-weight: 100;
+	font-family: 'Spirax', cursive;
     letter-spacing: .25em;
     line-height: .4em;
 }
@@ -25,3 +34,10 @@ body{
   font-family: 'Amatica SC', cursive;
 }
 
+h3{
+  text-align: center;
+  background: url("../images/jessieandgrantengagementphoto1.jpg");
+  background-size: cover;
+  color: #a3abb7;
+  font-family: 'Amatica SC', cursive;
+}
