@@ -43,10 +43,16 @@ h3{
 
 h4{
 	text-align: center;
-	font-family: Helvetica;
+	font-family: 'Slabo 27px', serif;
 	}
 
 p{
 	text-align: center;
-	font-family: Helvetica;
+	font-family: 'Slabo 27px', serif;
 	}
+
+footer{
+	text-align: center;
+	font-family: 'Slabo 27px', serif;
+
+}
