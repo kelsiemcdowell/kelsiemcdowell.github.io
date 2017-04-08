@@ -10,7 +10,7 @@ h1{
 
 h2{
     padding-top: 140px;
-    font-size: 48px;
+    font-size: 30px;
     font-weight: 100;
 	font-family: 'Spirax', cursive;
     letter-spacing: .25em;
@@ -36,8 +36,6 @@ body{
 
 h3{
   text-align: center;
-  background: url("../images/jessieandgrantengagementphoto1.jpg");
-  background-size: cover;
   color: #a3abb7;
   font-family: 'Amatica SC', cursive;
 }
