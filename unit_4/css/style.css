@@ -1,3 +1,13 @@
+nav{
+	text-align: right;
+    margin-right: 40px;
+    padding-right: 20px;
+    float: right;
+    font-family: 'BioRhyme', serif;
+    word-spacing: 2em;
+}
+
+
 body{
   text-align: center;
   background: url("../images/jessieandgrantengagementphoto1.jpg");
@@ -5,5 +15,4 @@ body{
   color: #a3abb7;
   font-family: 'Amatica SC', cursive;
 }
-
 
