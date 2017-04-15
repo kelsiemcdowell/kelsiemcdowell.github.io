@@ -1,67 +1,74 @@
 
-section id="header"{
+h1{
     background-color:#FFED74;
     border: 1px black solid;
     padding: 20px;
+    font-size: 30px;
+    font-weight: 100;
+    font-family: 'Spirax', cursive;
+    letter-spacing: .25em;
+    line-height: .4em;
+}
+
+h2{
+    background-color:#FFED74;
+    border: 1px black solid;
+    padding: 20px;
+    font-size: 30px;
+    font-weight: 100;
+    font-family: 'Spirax', cursive;
+    letter-spacing: .25em;
+    line-height: .4em;
 }
 
 
-section id="site nav"{
+nav{
     background-color:#E8C66A;
     border: 1px black solid;
     padding: 20px;
-}
-
-section id="our story"{
-    background-color:#FFE2B8;
-    border: 1px black solid;
-    padding: 20px;
-}
-
-section id="engagement photos"{
-    background-color:#FFE2B8;
-    border: 1px black solid;
-    padding: 20px;
-}
-
-section id="wedding invitation"{
-    background-color:#FFE2B8;
-    border: 1px black solid;
-    padding: 20px; 
-}
-
-section id="additional wedding details"{
-    background-color:#FFE2B8;
-    border: 1px black solid;
-    padding: 20px; 
-}
-
-footer{
-  background-color:#FF957E;
-
-}
-
-
-
-
-h2{
-    padding-top: 140px;
-    font-size: 30px;
-    font-weight: 100;
-	font-family: 'Spirax', cursive;
-    letter-spacing: .25em;
-    line-height: .4em;
-	}
-
-nav{
-	text-align: right;
-	color: #a3abb7;
+    text-align: center;
+    color: #a3abb7;
     margin-right: 40px;
     padding-right: 20px;
     float: right;
     font-family: 'Amatica SC', cursive;
-	}
+}
 
+h3{
+    background-color:#FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+p{
+    background-color:#FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+h4{
+    background-color:#FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+h5{
+    background-color:#FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+h6{
+    background-color:#FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+footer{
+  background-color:#FF957E;
+  border: 1px black solid;
+  padding: 20px; 
+}
 
 body{
   text-align: center;
@@ -72,26 +79,3 @@ body{
   margin: 8px;
 	}
 
-h3{
-  text-align: center;
-  font-family: 'Amatica SC', cursive;
-	}
-
-h4{
-	text-align: center;
-	font-family: 'Slabo 27px', serif;
-	font-weight: 70;
-	}
-
-p{
-	text-align: center;
-	font-family: 'Slabo 27px', serif;
-	font-weight: 70;
-	}
-
-footer{
-	text-align: center;
-	font-family: 'Slabo 27px', serif;
-	font-weight: 70;
-
-}
