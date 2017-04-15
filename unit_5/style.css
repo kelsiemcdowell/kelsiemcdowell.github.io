@@ -1,0 +1,97 @@
+
+section id="header"{
+    background-color:#FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+
+section id="site nav"{
+    background-color:#E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+section id="our story"{
+    background-color:#FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+section id="engagement photos"{
+    background-color:#FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+section id="wedding invitation"{
+    background-color:#FFE2B8;
+    border: 1px black solid;
+    padding: 20px; 
+}
+
+section id="additional wedding details"{
+    background-color:#FFE2B8;
+    border: 1px black solid;
+    padding: 20px; 
+}
+
+footer{
+  background-color:#FF957E;
+
+}
+
+
+
+
+h2{
+    padding-top: 140px;
+    font-size: 30px;
+    font-weight: 100;
+	font-family: 'Spirax', cursive;
+    letter-spacing: .25em;
+    line-height: .4em;
+	}
+
+nav{
+	text-align: right;
+	color: #a3abb7;
+    margin-right: 40px;
+    padding-right: 20px;
+    float: right;
+    font-family: 'Amatica SC', cursive;
+	}
+
+
+body{
+  text-align: center;
+  background: url("../images/jessieandgrantengagementphoto1.jpg");
+  background-size: cover;
+  color: #FFFFFF;
+  font-family: 'Amatica SC', cursive;
+  margin: 8px;
+	}
+
+h3{
+  text-align: center;
+  font-family: 'Amatica SC', cursive;
+	}
+
+h4{
+	text-align: center;
+	font-family: 'Slabo 27px', serif;
+	font-weight: 70;
+	}
+
+p{
+	text-align: center;
+	font-family: 'Slabo 27px', serif;
+	font-weight: 70;
+	}
+
+footer{
+	text-align: center;
+	font-family: 'Slabo 27px', serif;
+	font-weight: 70;
+
+}
