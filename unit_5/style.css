@@ -1,3 +1,10 @@
+body{
+  text-align: center;
+  background: url("../images/jessieandgrantengagementphoto1.jpg");
+  background-size: cover;
+  font-family: 'Amatica SC', cursive;
+  margin: 8px;
+}
 
 header{
     background-color:#FFED74;
@@ -36,13 +43,3 @@ footer{
   border: 1px black solid;
   padding: 20px; 
 }
-
-body{
-  text-align: center;
-  background: url("../images/jessieandgrantengagementphoto1.jpg");
-  background-size: cover;
-  color: #FFFFFF;
-  font-family: 'Amatica SC', cursive;
-  margin: 8px;
-	}
-
