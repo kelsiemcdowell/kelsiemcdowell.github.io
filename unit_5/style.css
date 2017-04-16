@@ -1,5 +1,5 @@
 
-h1{
+header{
     background-color:#FFED74;
     border: 1px black solid;
     padding: 20px;
@@ -10,8 +10,8 @@ h1{
     line-height: .4em;
 }
 
-h2{
-    background-color:#FFED74;
+section{
+    background-color:#FFE2B8;
     border: 1px black solid;
     padding: 20px;
     font-size: 30px;
@@ -30,35 +30,6 @@ nav{
     font-family: 'Amatica SC', cursive;
 }
 
-h3{
-    background-color:#FFE2B8;
-    border: 1px black solid;
-    padding: 20px;
-}
-
-p{
-    background-color:#FFE2B8;
-    border: 1px black solid;
-    padding: 20px;
-}
-
-h4{
-    background-color:#FFE2B8;
-    border: 1px black solid;
-    padding: 20px;
-}
-
-h5{
-    background-color:#FFE2B8;
-    border: 1px black solid;
-    padding: 20px;
-}
-
-h6{
-    background-color:#FFE2B8;
-    border: 1px black solid;
-    padding: 20px;
-}
 
 footer{
   background-color:#FF957E;
