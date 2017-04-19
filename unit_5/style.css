@@ -1,12 +1,4 @@
-body{
-  text-align: center;
-  background: url("../images/jessieandgrantengagementphoto1.jpg");
-  background-size: cover;
-  font-family: 'Amatica SC', cursive;
-  margin: 8px;
-}
-
-header{
+header {
     background-color:#FFED74;
     border: 1px black solid;
     padding: 20px;
@@ -17,7 +9,15 @@ header{
     line-height: .4em;
 }
 
-section{
+body {
+  text-align: center;
+  background: url("../images/jessieandgrantengagementphoto1.jpg");
+  background-size: cover;
+  font-family: 'Amatica SC', cursive;
+  margin: 8px;
+}
+
+section {
     background-color:#FFE2B8;
     border: 1px black solid;
     padding: 20px;
@@ -28,7 +28,7 @@ section{
     line-height: .4em;
 }
 
-nav{
+nav {
     background-color:#E8C66A;
     border: 1px black solid;
     padding: 20px;
@@ -38,7 +38,7 @@ nav{
 }
 
 
-footer{
+footer {
   background-color:#FF957E;
   border: 1px black solid;
   padding: 20px; 
