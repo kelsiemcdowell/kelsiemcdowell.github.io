@@ -1,61 +1,45 @@
-
-h1{
-    padding-top: 140px;
-    font-size: 48px;
-    font-weight: 100;
-	font-family: 'Amatica SC', cursive;
-    letter-spacing: .25em;
-    line-height: .4em;
-	}
-
-h2{
-    padding-top: 140px;
+header {
+    background-color:#FFED74;
+    border: 1px black solid;
+    padding: 20px;
     font-size: 30px;
     font-weight: 100;
-	font-family: 'Spirax', cursive;
+    font-family: 'Spirax', cursive;
     letter-spacing: .25em;
     line-height: .4em;
-	}
-
-nav{
-	text-align: right;
-	color: #a3abb7;
-    margin-right: 40px;
-    padding-right: 20px;
-    float: right;
-    font-family: 'Amatica SC', cursive;
-	}
-
+}
 
 body{
   text-align: center;
   background: url("../images/jessieandgrantengagementphoto1.jpg");
   background-size: cover;
-  color: #FFFFFF;
-  font-family: 'Amatica SC', cursive;
+  font-family: 'Slabo 27px', serif;
   margin: 8px;
-	}
+}
 
-h3{
-  text-align: center;
-  font-family: 'Amatica SC', cursive;
-	}
 
-h4{
-	text-align: center;
-	font-family: 'Slabo 27px', serif;
-	font-weight: 70;
-	}
+section {
+    background-color:#FFE2B8;
+    border: 1px black solid;
+    font-size: 20px;
+    font-weight: 100;
+    font-family: Cinzel;
 
-p{
-	text-align: center;
-	font-family: 'Slabo 27px', serif;
-	font-weight: 70;
-	}
+}
 
-footer{
-	text-align: center;
-	font-family: 'Slabo 27px', serif;
-	font-weight: 70;
+nav {
+    background-color:#E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+    text-align: center;
+    color: #a3abb7;
+    font-family: 'Slabo 27px', serif;
+}
 
+
+footer {
+  background-color:#FF957E;
+  border: 1px black solid;
+  padding: 20px; 
+    font-family: 'Slabo 27px', serif;
 }
