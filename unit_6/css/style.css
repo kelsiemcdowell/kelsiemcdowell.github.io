@@ -1,6 +1,8 @@
 header {
-    background-color:#FFED74;
-    border: 1px black solid;
+    background: url("../images/jessieandgrantsnuggle.jpg");
+    background-size: cover;
+    text-align: center;
+    border: 1px gray solid;
     padding: 20px;
     font-size: 30px;
     font-weight: 100;
@@ -9,18 +11,9 @@ header {
     line-height: .4em;
 }
 
-body{
-  text-align: center;
-  background: url("../images/jessieandgrantengagementphoto1.jpg");
-  background-size: cover;
-  font-family: 'Slabo 27px', serif;
-  margin: 8px;
-}
-
-
 section {
     background-color:#FFFFFF;
-    border: 1px black solid;
+    border: 1px gray solid;
     font-size: 20px;
     font-weight: 100;
     font-family: Cinzel;
@@ -28,13 +21,13 @@ section {
 
 #two_column {
     background-color: #FFB7CF;
-    border: 1px black solid;
+    border: 1px gray solid;
     padding: 20px;
 }
 
 #left {
     background-color: #E582A2;
-    border: 1px black solid;
+    border: 1px gray solid;
     padding: 20px;
     float: left;
     width: 30%;
@@ -42,7 +35,7 @@ section {
 
 #right {
     background-color: #E55B88;
-    border: 1px black solid;
+    border: 1px gray solid;
     padding: 20px;
     float: right;
     width: 62%;
@@ -59,7 +52,7 @@ section {
 
 nav {
     background-color:#E8C66A;
-    border: 1px black solid;
+    border: 1px gray solid;
     padding: 20px;
     text-align: center;
     color: #a3abb7;
@@ -69,7 +62,7 @@ nav {
 
 footer {
   background-color:#FF957E;
-  border: 1px black solid;
+  border: 1px gray solid;
   padding: 20px; 
     font-family: 'Slabo 27px', serif;
 }
