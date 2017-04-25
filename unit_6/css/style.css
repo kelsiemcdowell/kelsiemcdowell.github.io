@@ -51,7 +51,7 @@ a:hover{
 }
 
 #our_story{
-    background-color: #f5efef;
+    background-color: #ecdfdf;
     text-align: center;
     font-size: 20px;
     font-weight: 100;
@@ -61,26 +61,17 @@ a:hover{
 }
 
 #engagement_photos{
-    background-color: #f5efef;
+    background-color: #ecdfdf;
     text-align: center;
     font-size: 20px;
     font-weight: 100;
     font-family: Cinzel;
     height: 600px;
-}
-
-#wedding_invitation {
-    background-color: #f5efef;
-    text-align: center;
-    font-size: 20px;
-    font-weight: 100;
-    font-family: Cinzel;
-    height: 600px;
+    padding: 0px;
 }
 
 #our_big_day {
-    background-color: #f5efef;
-    border: 1px gray solid;
+    background-color: #ecdfdf;
     padding: 0px;
     float: left;
     width: 45%;
@@ -90,8 +81,7 @@ a:hover{
 }
 
 #wedding_weekend_details {
-    background-color: #f5efef;
-    border: 1px gray solid;
+    background-color: #ecdfdf;
     padding: 0px;
     float: right;
     width: 45%;
@@ -110,7 +100,7 @@ a:hover{
 }
 
 #our_story {
-    background-color: #f5efef;
+    background-color: #ecdfdf;
     text-align: center;
     font-size: 20px;
     font-weight: 100;
@@ -119,7 +109,7 @@ a:hover{
 }
 
 #registry {
-    background-color: #f5efef;
+    background-color: #ecdfdf;
     text-align: center;
     font-size: 20px;
     font-weight: 100;
@@ -128,9 +118,9 @@ a:hover{
 }
 
 #footer {
-  background-color: #f5efef;
-  text-align: center;
-  border: 1px gray solid;
-  padding: 0px; 
-  font-family: 'Petit Formal Script', cursive;
+    background-color: #ecdfdf;
+    text-align: center;
+    border: 1px gray solid;
+    padding: 0px; 
+    font-family: Cinzel;
 }
