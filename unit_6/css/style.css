@@ -2,14 +2,15 @@
     text-align: center;
     font-size: 30px;
     font-weight: 100;
+    color: #FFFFFF;
     font-family: 'Petit Formal Script', cursive;
     letter-spacing: .25em;
     line-height: .4em;
-    background: url("../images/jessieandgrantengagementphoto1.jpg");
+    background: url("../images/jessie+grant.jpg");
     background-size: cover;
     background-color: #FFFAF0;
     height: 600px;
-    padding: 0px;
+    padding: 1px 0px 0px 0px;
 }
 
 .wrapper{
