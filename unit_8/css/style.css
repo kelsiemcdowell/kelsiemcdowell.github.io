@@ -1,32 +1,43 @@
-#landing {
-    text-align: center;
-    font-size: 30px;
-    font-weight: 50;
-    color: #FFFFFF;
-    letter-spacing: .25em;
-    line-height: .4em;
+
+body{
+    font-size: 16px;
+    height: 500px;
+}
+
+#announcement {
     background: url("../images/jessie+grant.jpg");
     background-size: cover;
-    height: 600px;
-    padding: 1px 0px 0px 0px;
+    height: 100%;
 }
 
-h1, h2 {
+#names {
+    letter-spacing: .25em;
+    line-height: 1.5em;
+    color: #FFFFFF;
     font-family: "Megrim", cursive;
-
+    text-align: center;
+    font-size: 1em;
+    padding-right: 0em;
+    padding-bottom: 0em;
+    padding-left: 0em;
+    border-style: solid;
+    border-width: .025em;
 }
+
 
 .wrapper {
     background-color: #651a1a;
 }
 
-nav {
-    background-color: #ecdfdf;
-    font-size: 18px;
+
+#nav {
+    font-size: 1em;
     word-spacing: 0;
+    font-family: "Slabo 27px", serif;
     padding: 0px;
     text-align: center;
-    color: #a3abb7;
+    background-color: #ecdfdf;
+
 }
 
 a {
@@ -35,7 +46,7 @@ a {
     text-decoration: none;
     display: inline-block;
     text-align: center;
-    padding: 20px;
+    padding: 2em;
 }
 
 a:hover {
@@ -46,64 +57,61 @@ a:hover {
 #our_story {
     background-color: #ecdfdf;
     text-align: center;
-    font-size: 20px;
-    font-weight: 100;
-    line-height: 1.2;
+    font-size: 1em;
+    line-height: 1.5em;
     padding: 25px;
     margin: 25px;
-    height:600px;
+    height: 200%;
 }
 
 
 #engagement_photos {
     background-color: #ecdfdf;
     text-align: center;
-    font-size: 20px;
-    font-weight: 100;
+    font-size: 1em;
     padding: 25px;
     margin: 25px;
-    height:600px;
+    height: 33em;
     background-image: url("../images/jessie+grant_piggyback.jpg");
-    background-size: 20%;
+    background-size: 50%;
+
 }
+
 
 #our_big_day {
     background-color: #ecdfdf;
     text-align: center;
-    font-size: 20px;
-    font-weight: 100;
+    font-size: 1em;
     padding: 25px;
     margin: 25px;
-    height:600px;
+    height: 33em;
 }
 
 #details {
     text-align: center;
-    font-size: 20px;
-    font-weight: 100;
+    font-size: 1em;
     padding: 25px;
     margin: 25px;
-    height:600px;
+    height: 33em;
     background-image: url("../images/yellowstone.jpg");
     background-size: 100%;
-    opacity: .9;
-    filter: alpha(opacity=50);
+    filter: alpha (opacity=50);
 }
 
 #registry {
     background-color: #ecdfdf;
     text-align: center;
-    font-size: 20px;
-    font-weight: 100;
+    font-size: 1em;
     padding: 25px;
     margin: 25px;
-    height:600px;
+    height: 15em;
 }
 
 #footer {
     background-color: #ecdfdf;
     text-align: center;
-    border: 1px gray solid;
+    border: .025em white solid;
     padding: 0px; 
-    font-size: 20px;
+    font-size: .8em;
+    height: 5em;
 }
