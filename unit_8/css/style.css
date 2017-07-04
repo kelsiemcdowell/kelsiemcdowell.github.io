@@ -8,7 +8,7 @@ body{
     background: url("../images/jessie+grant.jpg");
     background-size: cover;
     height: 100%;
-    padding-bottom: 11em;
+    padding-bottom: 14%;
 }
 
 #names {
@@ -18,10 +18,10 @@ body{
     font-family: "Megrim", cursive;
     text-align: center;
     font-size: 1.7em;
-    padding-right: 0em;
-    padding-bottom: 0em;
-    padding-left: 0em;
-    padding-top: .5em;
+    padding-right: 0%;
+    padding-bottom: 0%;
+    padding-left: 0%;
+    padding-top: .5%;
 }
 
 #date {
@@ -34,7 +34,7 @@ body{
     padding-right: 0em;
     padding-bottom: 0em;
     padding-left: 0em;
-    padding-top: 21.2em;
+    padding-top: 38%;
 }
 
 
@@ -45,7 +45,7 @@ body{
 
 #nav {
     font-size: 1em;
-    word-spacing: 0;
+    word-spacing: 0em;
     font-family: "Slabo 27px", serif;
     text-align: center;
     background-color: #ecdfdf;
@@ -72,19 +72,19 @@ a:hover {
     font-size: 1em;
     line-height: 1.5em;
     padding: .25em;
-    height: 200%;
+    height: 20em;
 }
 
 
-#engagement_photos {
+#photos {
     background-color: #ecdfdf;
+    font-family: "Slabo 27px", serif;
     text-align: center;
     font-size: 1em;
     padding: .25em;
-    height: 200%;
+    height: 33em;
     background-image: url("../images/jessie+grant_piggyback.jpg");
-    background-size: 25%;
-
+    background-size: cover;
 }
 
 
